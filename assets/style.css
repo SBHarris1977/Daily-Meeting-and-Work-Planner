@@ -1,0 +1,58 @@
+.container {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+body {
+margin: 0;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.input {
+width: 100%;
+    padding-bottom: 5%;
+    background-color: lightgray;
+    
+    
+}
+
+#saveBttn {
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+
+.row {
+    background-color: lightgray;
+}
+
+.hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #d3d3d3;
+    color: white;
+  }
+  
+  .present {
+    background-color: #ff6961;
+    color: white;
+  }
+  
+  .future {
+    background-color: #77dd77;
+    color: white;
+  }
